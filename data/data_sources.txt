@@ -1,0 +1,12 @@
+Data Sources:
+1. Google Cloud Sustainability Reports (2019-2023)
+   URL: https://console.cloud.google.com/marketplace/product/bigquery-public-datasets/regional-cfe?hl=en_GB&inv=1&invt=AbkW7w&project=neat-throne-434606-e7
+
+Description:
+The raw datasets for Google Carbon-Free Energy (CFE) percentages and Grid Carbon Intensity were sourced from Google Cloud Sustainability Reports for the years 2019-2023.
+
+Additional Notes:
+- The file google_cfe_2019_2023.csv contains the merged, consolidated, and cleaned dataset.
+- Intermediate files include preprocessed versions of the raw datasets with:
+  - Missing values handled
+  - Standardized column names and formats
