@@ -50,7 +50,7 @@ This folder contains Jupyter Notebooks used for data collection, cleaning, analy
 ---
 
 ### **4. Machine Learning and Visualization**  
-- **File**: `model_exploration.ipynb`  
+- **File**: `region_carbon_merged.ipynb`  
 - **Purpose**:  
   - Explore regression and classification models:  
     - Predict `Grid Carbon Intensity`.  
