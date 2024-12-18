@@ -1,0 +1,162 @@
+Google Cloud Region,Location,Google CFE,Year,Consolidated Grid Carbon Intensity (gCO2eq / kWh)
+us-west4,Las Vegas,0.13,2019,491.0
+asia-east1,Taiwan,0.19,2019,541.0
+asia-east2,Hong Kong,0.52,2019,506.0
+asia-northeast1,Tokyo,0.52,2019,569.0
+asia-northeast2,Osaka,0.52,2019,414.0
+asia-northeast3,Seoul,0.52,2019,490.0
+asia-south1,Mumbai,0.52,2019,752.0
+asia-southeast1,Singapore,0.03,2019,493.0
+asia-southeast2,Jakarta,0.52,2019,647.0
+australia-southeast1,Sydney,0.11,2019,725.0
+europe-north1,Finland,0.77,2019,181.0
+us-west3,Salt Lake City,0.25,2019,561.0
+europe-west1,Belgium,0.68,2019,196.0
+europe-west3,Frankfurt,0.61,2019,319.0
+europe-west4,Netherlands,0.61,2019,474.0
+europe-west6,Zurich,0.52,2019,87.0
+northamerica-northeast1,Montreal,0.52,2019,27.0
+southamerica-east1,Sao Paulo,0.87,2019,109.0
+us-central1,Iowa,0.78,2019,479.0
+us-east1,South Carolina,0.19,2019,500.0
+us-east4,Northern Virginia,0.41,2019,383.0
+us-west1,Oregon,0.89,2019,117.0
+us-west2,Los Angeles,0.55,2019,248.0
+europe-west2,London,0.54,2019,257.0
+us-west4,Las Vegas,0.19,2020,455.0
+asia-east1,Taiwan,0.18,2020,540.0
+us-west2,Los Angeles,0.54,2020,253.0
+asia-northeast2,Osaka,0.52,2020,442.0
+asia-northeast3,Seoul,0.31,2020,457.0
+asia-south1,Mumbai,0.12,2020,721.0
+asia-south2,Delhi,0.52,2020,657.0
+asia-southeast1,Singapore,0.04,2020,493.0
+asia-southeast2,Jakarta,0.52,2020,647.0
+australia-southeast1,Sydney,0.11,2020,727.0
+australia-southeast2,Melbourne,0.52,2020,691.0
+europe-central2,Warsaw,0.52,2020,622.0
+europe-north1,Finland,0.94,2020,133.0
+europe-west2,London,0.59,2020,231.0
+europe-west3,Frankfurt,0.63,2020,293.0
+europe-west4,Netherlands,0.6,2020,410.0
+europe-west6,Zurich,0.52,2020,87.0
+northamerica-northeast1,Montréal,0.52,2020,27.0
+southamerica-east1,São Paulo,0.88,2020,103.0
+us-west1,Oregon,0.9,2020,78.0
+us-central1,Iowa,0.93,2020,454.0
+us-east1,South Carolina,0.27,2020,480.0
+us-east4,Northern Virginia,0.58,2020,361.0
+us-west3,Salt Lake City,0.28,2020,533.0
+asia-northeast1,Tokyo,0.12,2020,554.0
+asia-east2,Hong Kong,0.52,2020,453.0
+europe-west1,Belgium,0.79,2020,212.0
+southamerica-west1,Santiago,0.69,2021,190.0
+europe-southwest1,Madrid,0.52,2021,121.0
+europe-north1,Finland,0.91,2021,127.0
+europe-central2,Warsaw,0.2,2021,576.0
+australia-southeast2,Melbourne,0.31,2021,521.0
+australia-southeast1,Sydney,0.21,2021,598.0
+asia-southeast1,Singapore,0.04,2021,372.0
+europe-west1,Belgium,0.82,2021,110.0
+asia-south2,Delhi,0.08,2021,671.0
+asia-northeast3,Seoul,0.31,2021,425.0
+asia-northeast2,Osaka,0.31,2021,384.0
+asia-northeast1,Tokyo,0.16,2021,464.0
+asia-east2,Hong Kong,0.28,2021,360.0
+southamerica-east1,São Paulo,0.78,2021,129.0
+asia-east1,Taiwan,0.17,2021,456.0
+asia-south1,Mumbai,0.1,2021,670.0
+europe-west2,London,0.57,2021,172.0
+asia-southeast2,Jakarta,0.13,2021,580.0
+europe-west4,Netherlands,0.53,2021,283.0
+us-central1,Iowa,0.97,2021,394.0
+europe-west3,Frankfurt,0.6,2021,269.0
+us-east4,Northern Virginia,0.64,2021,309.0
+us-east5,Columbus,0.64,2021,309.0
+us-south1,Dallas,0.4,2021,296.0
+us-west1,Oregon,0.88,2021,60.0
+us-west2,Los Angeles,0.53,2021,190.0
+us-west3,Salt Lake City,0.31,2021,448.0
+us-east1,South Carolina,0.25,2021,434.0
+northamerica-northeast2,Toronto,0.92,2021,29.0
+northamerica-northeast1,Montréal,1.0,2021,0.0
+europe-west9,Paris,0.52,2021,59.0
+europe-west8,Milan,0.52,2021,298.0
+us-west4,Las Vegas,0.21,2021,365.0
+europe-west6,Zurich,0.85,2021,86.0
+asia-northeast1,Tokyo,0.16,2022,463.0
+asia-northeast2,Osaka,0.32,2022,383.0
+asia-northeast3,Seoul,0.31,2022,425.0
+asia-south1,Mumbai,0.24,2022,555.0
+asia-south2,Delhi,0.23,2022,632.0
+asia-southeast1,Singapore,0.04,2022,372.0
+asia-southeast2,Jakarta,0.13,2022,580.0
+europe-central2,Warsaw,0.24,2022,738.0
+australia-southeast2,Melbourne,0.34,2022,490.0
+europe-north1,Finland,0.97,2022,112.0
+europe-southwest1,Madrid,0.67,2022,160.0
+europe-west1,Belgium,0.8,2022,123.0
+europe-west2,London,0.85,2022,166.0
+europe-west3,Frankfurt,0.96,2022,413.0
+europe-west4,Netherlands,0.57,2022,317.0
+australia-southeast1,Sydney,0.27,2022,538.0
+asia-east2,Hong Kong,0.28,2022,360.0
+us-west3,Salt Lake City,0.31,2022,606.0
+europe-west9,Paris,0.87,2022,71.0
+europe-west6,Zurich,0.85,2022,118.0
+us-west4,Las Vegas,0.27,2022,396.0
+us-west2,Los Angeles,0.56,2022,202.0
+us-west1,Oregon,0.89,2022,67.0
+us-south1,Dallas,0.41,2022,342.0
+us-east5,Columbus,0.6,2022,354.0
+us-east4,Northern Virginia,0.6,2022,354.0
+us-east1,South Carolina,0.26,2022,532.0
+us-central1,Iowa,0.92,2022,445.0
+southamerica-west1,Santiago,0.9,2022,165.0
+southamerica-east1,São Paulo,0.89,2022,65.0
+northamerica-northeast2,Toronto,0.9,2022,36.0
+northamerica-northeast1,Montréal,1.0,2022,0.0
+me-west1,Tel Aviv,0.02,2022,476.0
+europe-west12,Turin,0.42,2022,323.0
+asia-east1,Taiwan,0.18,2022,453.0
+europe-west8,Milan,0.42,2022,323.0
+us-east1,South Carolina,0.29,2023,560.0
+us-west3,Salt Lake City,0.29,2023,588.0
+europe-west1,Belgium,0.82,2023,122.0
+europe-southwest1,Madrid,0.76,2023,131.0
+europe-north1,Finland,0.98,2023,46.0
+europe-central2,Warsaw,0.31,2023,723.0
+australia-southeast2,Melbourne,0.4,2023,456.0
+australia-southeast1,Sydney,0.33,2023,501.0
+asia-southeast2,Jakarta,0.13,2023,580.0
+europe-west2,London,0.92,2023,136.0
+asia-southeast1,Singapore,0.04,2023,369.0
+asia-south1,Mumbai,0.14,2023,648.0
+asia-northeast3,Seoul,0.35,2023,378.0
+asia-northeast2,Osaka,0.3,2023,385.0
+asia-northeast1,Tokyo,0.16,2023,459.0
+asia-east2,Hong Kong,0.28,2023,360.0
+asia-east1,Taiwan,0.18,2023,451.0
+africa-south1,Johannesburg,0.16,2023,646.0
+asia-south2,Delhi,0.29,2023,529.0
+us-west4,Las Vegas,0.26,2023,373.0
+europe-west3,Frankfurt,0.9,2023,345.0
+europe-west8,Milan,0.52,2023,249.0
+us-west2,Los Angeles,0.55,2023,198.0
+us-west1,Oregon,0.84,2023,94.0
+us-south1,Dallas,0.79,2023,321.0
+us-east4,Northern Virginia,0.52,2023,322.0
+us-east5,Columbus,0.52,2023,322.0
+us-central1,Iowa,0.95,2023,430.0
+southamerica-west1,Santiago,0.91,2023,138.0
+europe-west4,Netherlands,0.8,2023,236.0
+southamerica-east1,Sāo Paulo,0.9,2023,56.0
+northamerica-northeast1,Montréal,1.0,2023,2.0
+me-west1,Tel Aviv,0.05,2023,463.0
+me-central2,Dammam,0.0,2023,569.0
+me-central1,Doha,0.0,2023,575.0
+europe-west12,Turin,0.52,2023,249.0
+europe-west10,Berlin,0.9,2023,345.0
+europe-west9,Paris,0.94,2023,34.0
+northamerica-northeast2,Toronto,0.87,2023,47.0
+europe-west6,Zurich,0.92,2023,59.0
