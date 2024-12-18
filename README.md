@@ -69,10 +69,10 @@ GreenCloud/
 │   ├── raw/                  # Original datasets (2019-2023)
 │   └── processed/            # Cleaned and pre-processed datasets
 │
-├── notebooks/                # Jupyter Notebooks for exploratory data analysis (EDA)
+├── notebooks/                # Jupyter Notebooks for exploratory data analysis 
 │   ├── 01_EDA.ipynb          # Initial data analysis and visualization
-│   ├── 02_Predictions.ipynb  # Machine learning model implementation
-│   └── 03_Dashboard.ipynb    # Dashboard logic and integration
+│   ├── 02_merged.ipynb       # Feature engineering and dataset merging
+│   
 │
 ├── prototype/                # Low-fidelity dashboard prototype (Canva files)
 │   └── images/               # Screenshots or export of the prototype design
