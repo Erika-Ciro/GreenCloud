@@ -1,0 +1,32 @@
+# Future Work for the GreenCloud Project
+
+This section outlines potential improvements and extensions for the GreenCloud Sustainability Dashboard project:
+
+1. **Advanced Predictive Models**:
+   - Implement Gradient Boosting or XGBoost models for more accurate energy trend predictions.
+   - Explore deep learning models for time series forecasting of energy consumption and carbon intensity.
+
+2. **Real-Time Data Integration**:
+   - Develop pipelines to collect real-time data from cloud providers or public APIs.
+   - Enable dynamic updates to the sustainability dashboard.
+
+3. **Energy Alerts System**:
+   - Implement a module to send alerts for high energy consumption or carbon intensity spikes.
+   - Configure user-defined thresholds for notifications.
+
+4. **High-Fidelity Dashboard**:
+   - Transition from a low-fidelity prototype to an interactive, production-ready dashboard using tools like Plotly Dash or Streamlit.
+
+5. **Incorporate External Datasets**:
+   - Integrate datasets from other cloud providers (e.g., AWS, Azure) for comparative analysis.
+   - Use global energy reports for additional context.
+
+6. **Scalability and Automation**:
+   - Automate data preprocessing steps to handle larger datasets and future updates.
+   - Optimize ML models for faster training and prediction.
+
+7. **Ethical and Legal Considerations**:
+   - Ensure compliance with GDPR and other relevant regulations.
+   - Include disclaimers for data usage and limitations.
+
+This document serves as a roadmap for future iterations of the GreenCloud project.
