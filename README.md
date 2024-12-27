@@ -65,27 +65,35 @@ The repository is organized as follows:
 ```plaintext
 GreenCloud/
 │
-├── data/                     # Dataset files used for analysis and predictions
-│   ├── raw/                  # Original datasets (2019-2023)
-│   └── processed/            # Cleaned and pre-processed datasets
+├── data/                                 # Dataset files used for analysis and predictions
+│   ├── raw/                              # Original datasets (2019-2023)
+│   └── processed/                        # Cleaned and pre-processed datasets
 │
-├── notebooks/                # Jupyter Notebooks for exploratory data analysis 
-│   ├── 01_EDA.ipynb          # Initial data analysis and visualization
-│   ├── 02_merged.ipynb       # Feature engineering and dataset merging
+├── notebooks/                            # Jupyter Notebooks for exploratory data analysis 
+│   ├── region_carbon_2019to2013.ipynb    # Initial data analysis and visualization
+│   ├── region_carbon_merged.ipynb        # Feature engineering and dataset merging
 │   
 │
-├── prototype/                # Low-fidelity dashboard prototype (Canva files)
-│   └── images/               # Screenshots or export of the prototype design
+├── prototype/                            # Low-fidelity dashboard prototype (Canva files)
+│   └── images/                           # Screenshots or export of the prototype design
 │
-├── src/                      # Source code for dashboard scripts
-│   ├── utils/                # Helper functions and utilities
-│   ├── preprocess.py         # Data cleaning and preprocessing scripts
-│   ├── model.py              # Predictive model implementation
-│   └── dashboard.py          # Script for dashboard functionalities
+├── src/                                  # Source code for dashboard scripts
+│   ├── future_work.txt  
+│   ├── preprocess.py                     # Data cleaning and preprocessing scripts
+│   ├── model.py                          # Predictive model implementation
+│   └── dashboard.py                      # Script for dashboard functionalities
 │
-├── requirements.txt          # List of dependencies
-├── README.md                 # Project overview (this file)
-└── LICENSE                   # License file for project usage
+│── visuals/                              # Visualization files and analysis results
+│
+│
+│── docs/                                 # Documentation for the project
+│   ├── requirements.md                   # Project requirements and specifications
+│   ├── implementation_documentation.md   # System architecture and deployment steps
+│   └── testing_documentation.md          # Testing documentation and test cases
+│
+├── requirements.txt                      # List of dependencies
+├── README.md                             # Project overview (this file)
+└── LICENSE                               # License file for project usage
 ```
 
 ## Setup Instructions
