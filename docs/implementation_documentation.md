@@ -40,6 +40,20 @@ The low-fidelity prototype was created to represent the conceptual design of the
 
 ---
 
+## 4. Testing and Evaluation
+
+- **Model Evaluation:**
+
+  - Regression models were validated using R² (0.66) and MSE (0.02) metrics.
+  - Classification models achieved up to 82% accuracy.
+  
+- **Prototype Assessment:**
+  
+  - Visualizations were manually tested for clarity and alignment with dataset trends.
+  - Stakeholder feedback was incorporated into prototype iterations.
+
+---
+
 ## 3. Ethical Considerations  
 The project emphasizes ethical considerations, including:  
 - **Data Privacy:**  
